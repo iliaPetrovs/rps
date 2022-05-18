@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{48D0D4E7-47D6-27A8-434B-9C6D0BE9EA3E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BattleSystem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="15" Column="36" />
+      <File FileName="Assets/Scripts/BattleSystem.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Unit.cs" Line="80" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPS" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BattleSystem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="319f2ca3-a9e8-45d2-b029-993c1d989a28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
